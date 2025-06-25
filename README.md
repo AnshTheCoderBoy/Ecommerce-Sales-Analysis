@@ -23,10 +23,5 @@ This project analyzes sales performance from an e-commerce dataset using Python,
 ## 📁 Files Included
 - `Ecommerce-Sales-Analysis.ipynb`: Full Jupyter notebook
 - `data.csv`: Raw dataset used
-
-## 🎥 Based on
-This project was inspired by a [YouTube tutorial](https://youtu.be/61MELFJN0hk)
-
----
-
+  
 Feel free to ⭐ star this repo if you found it helpful!
